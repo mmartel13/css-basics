@@ -1,4 +1,4 @@
-        // we could write javascript in here
+
         document.getElementById('second-heading').innerHTML = 'Hey Class'
 
         const getDataButton = document.getElementById('get-data')
